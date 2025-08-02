@@ -36,3 +36,5 @@ Visual Results – Cumulative variance and PCA separation plots.
 Interpretable Results – Ranked gene loadings highlighting key contributors.
 
 This pipeline is modular, scalable, and built for researchers and data scientists working with high-dimensional biomedical datasets.
+
+Legacy versions of the pipeline are stored in /older_versions for reference and reproducibility.
